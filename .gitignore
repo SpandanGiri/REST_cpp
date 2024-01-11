@@ -1,0 +1,13 @@
+# Compiled files
+*.o
+*.run
+
+# Compiled dependencies
+bin/
+build/
+lib/
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
